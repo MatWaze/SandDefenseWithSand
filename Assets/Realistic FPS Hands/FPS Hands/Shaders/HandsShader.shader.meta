@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6715f195a6045e849a5b575d506671e6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Albedo: {fileID: 2800000, guid: 921a45b263ec4704a80581727d6f76dd, type: 3}
+  - _Normals: {fileID: 2800000, guid: c210965e7bc2c7940bb13961e5ae048b, type: 3}
+  - _Specular: {fileID: 2800000, guid: f793f2684dd693c4b8ee5c74e7a9a3b6, type: 3}
+  - _AO: {fileID: 2800000, guid: a4cf0204f1684fd4091c8abfa7002e08, type: 3}
+  - _BloodMaskNoise: {instanceID: 0}
+  - _BloodAlbedo: {instanceID: 0}
+  - _BloodNormals: {instanceID: 0}
+  - _BloodSpecular: {instanceID: 0}
+  - _BloodAO: {instanceID: 0}
+  - _texcoord: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
